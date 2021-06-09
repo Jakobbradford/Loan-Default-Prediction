@@ -5,7 +5,7 @@ What drives credit card defaults and how can we reduce them?
 
 **Summary**
 
-This project is focused on identifying patterns and predicting the number of credit defaults based on the specific conditions (default payments, demographic information, credit data, history of payment and bill statements). The poorly coded data in the dataset was altered prior to running our model. Using a logit classifier regression model better analyzed the relationship between our 1 dependent variable and the independent variables. With the accuracy percentage cutoff as our hyperparameter with a value of 0.51, anything below is a non-default and anything above is a default.  
+This project is focused on identifying patterns and predicting the number of credit defaults based on the specific conditions (default payments, demographic information, credit data, history of payment and bill statements). We cleaned poorly coded data in the dataset prior to running our model. We used a logit classifier regression model to better analyze the relationship between our 1 dependent variable and the independent variables. With the accuracy percentage cutoff as the hyperparameter with a value of 0.51, anything below is a non-default and anything above is a default.  
 
 **Conclusion**
 
