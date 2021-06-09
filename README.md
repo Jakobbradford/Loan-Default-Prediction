@@ -10,11 +10,11 @@ This project is focused on identifying patterns and predicting the number of cre
 **Conclusion**
 
 Better results were expected from the Logit regression due to its powerful capability to solve binary classification problems. Perhaps we could have done a better job tuning the prameters of the model or selecting different features. Despite the overall accuracy score, we were surprised by the precision and recall statistics.
-
+```
                      Predicted Group 0  	  Predicted Group 1
 Actual group 0              4484                	185
 Actual group 1              1054                	264
-
+```
 ```
                   Precision   	  Recall     F1-score
           0         0.810     	   0.960     	0.879
