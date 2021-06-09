@@ -1,4 +1,4 @@
-# credit-default-demographics
+# Loan Default Predictions
 
 **Business Question:**
 What drives credit card defaults and how can we reduce them?
