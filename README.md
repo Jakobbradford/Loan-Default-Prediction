@@ -22,4 +22,4 @@ Actual group 1              1054                	264
    Accuracy         0.793
 ```
 
-While the model is useful for predicting non-defaults correctly, it falters in predicting defaults. Future work of this project could involve removing demographic variables that aren't viable for analysis. Additionally, comparing multiple models such as XG boost and random forest and using the model with the highest overall AUC would benefit the analysis. This model potentially has effective real world utility for banks. The real world implications could perhaps be employed by banks to reduce loan default losses and predict default behaviors of their customers.
+While the model is useful for predicting non-defaults correctly, it falters in predicting defaults. Future work of this project could involve removing demographic variables that aren't viable for analysis. Additionally, comparing multiple models such as XG boost and random forest and using the model with the highest overall AUC would benefit the analysis. This model potentially has effective real world implications for banks, which would reduce loan default losses and predict default behaviors of their customers.
